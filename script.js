@@ -1,4 +1,4 @@
-let name = "Zvone";
+/*let name = "Zvone";
 let age = 25;
 let lastName = "Kozul";
 
@@ -11,4 +11,4 @@ let height = 200;
 let weight = 100;
 let razlika = height / weight;
 console.log(razlika);
-    
+    */
